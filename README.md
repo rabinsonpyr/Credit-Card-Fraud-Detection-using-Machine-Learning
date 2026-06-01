@@ -39,8 +39,8 @@ All results reported as mean ± standard deviation across five random seeds: {42
 
 **1. Clone the repository**
 ```bash
-git clone [INSERT GITHUB URL]
-cd [repo-name]
+git clone https://github.com/rabinsonpyr/Credit-Card-Fraud-Detection-using-Machine-Learning
+cd Credit-Card-Fraud-Detection-using-Machine-Learning
 ```
 
 **2. Install dependencies**
