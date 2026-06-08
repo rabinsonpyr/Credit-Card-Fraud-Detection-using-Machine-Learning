@@ -63,7 +63,7 @@ Place the downloaded `creditcard.csv` file in a `/data` folder at the root of th
 02_experiment1_real_data.py      → Run Experiment 1
 06_experiment2_synthetic_only.py → Run Experiment 2
 07_experiment3_augmentation.py   → Run Experiment 3
-08_experiment4_deep_learning.py  → Run deep learning models
+08_deep_learning.py              → Run deep learning models
 10_merge_all_results.py          → Merge all results
 09_generate_figures.py           → Generate all figures
 
